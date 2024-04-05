@@ -5,6 +5,5 @@
 
 - 🔭 I’m currently working on Frontend projects using Vue3 and typescript.
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: I love Dancing 
 - ⚡ Fun fact: I love Dancing 💃
 
