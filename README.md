@@ -1,3 +1,5 @@
+About me :
+
 ### Hi there, I'm Parisa Javidfar, it's a pleasure to meet you!  👋
 
  I am a Javascript Developer who Focuses on Web Frameworks & libraries like Vue and Nuxt. 
