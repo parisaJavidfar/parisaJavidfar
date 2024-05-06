@@ -10,3 +10,5 @@
 - 🌱 I’m currently learning React.
 - ⚡ Fun fact: I love Dancing 💃
 
+Please have a look at my [Linkdin](https://www.linkedin.com/in/parisa-javidfar/). for more details about me
+
